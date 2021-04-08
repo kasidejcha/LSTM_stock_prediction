@@ -10,7 +10,6 @@ Set hyperparameter and train a LSTM model using Keras library
 Make prediction on validation set: The model was able to produced results with 2.7 baht uncertainty
 ![Validation_result](https://user-images.githubusercontent.com/81757056/114017562-5dbb3b80-9896-11eb-9430-4d172eb94651.png)
 
-And lastly predict tomorrow stock value
-![image](https://user-images.githubusercontent.com/81757056/114017772-9c50f600-9896-11eb-821f-a67f263d8e5c.png)
+And lastly this model is used to predict tomorrow's stock value
 
 
