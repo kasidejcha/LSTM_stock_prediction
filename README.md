@@ -1,7 +1,7 @@
 # LSTM_stock_prediction
 A one step ahead time series forecast model with LSTM to predict tomorrow adjusted close price
 
-Perform EDA on the dataset to discover trend and seasonal pattern (data decomposition)
+Clean and perform EDA on the dataset to discover trend and seasonal pattern (data decomposition)
 ![data_decom](https://user-images.githubusercontent.com/81757056/114016897-8ee73c00-9895-11eb-8972-ae0b913cf2b0.jpg)
 
 Set hyperparameter and train a LSTM model using Keras library
